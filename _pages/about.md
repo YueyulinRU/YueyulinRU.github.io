@@ -1,24 +1,36 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "Welcome to my home page"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: PhD Candidate, Life Science Trace Gas Facility & Trace Gas Research Group, Radboud University
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Nijmegen, Netherlands</p>
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
-Education
-======
-Hi. My name is Yueyu Lin. I came from China. I received my bachelor in 2018 and master degree in 2021 from South China Normal University. Now I am a Physics PhD candidate of Life Science Trace Gas Facility & Trace Gas Research Group, under the supervision of Prof. Simona M. Cristescu.
 
-Bachelor
-======
-In 2014, after the university entrance exam, I went to South China Normal university to start my undergraduate student life and majored in Electronics Science and Technology at the department of Physics and Telecommunication Engineering. From 2016 to 2018, I joined the research group of Prof. Zhanghan and started my path of research. In the course of two years, our team won several awards, including the second prize of the 15th National Challenge Cup, Special prize of the 14th Challenge Cup in Guangdong Province, First prize of Guangdong Electronic Design Contest and so on with my team members. We also applied for six patents, some of which are still pending and some of which are approved. And we was announced as the Best Innovation Team of South China Normal University in 2018.
+Hi, my name is Yueyu Lin. I'm originally from China and received my bachelor's degree in 2018 and master's degree in 2021 from South China Normal University. I am now a Physics PhD candidate in the Life Science Trace Gas Facility & Trace Gas Research Group at Radboud University, under the supervision of Prof. Simona M. Cristescu.
 
-Master
-======
-After graduation, I decided to become a post-undergraduate student in the SCNU Applied Molecular Spectroscopy and Remote Sensing Group, under the co-supervisions of Prof. Katarina Svanberg and Prof. Sune Svanberg. I served as the course assistant on the course Atomic and Molecular Spectroscopy given by Sune Svanberg, and had the best result of all the students in the examination. I am the first and sole student author of one published scientific journal article on advanced imaging. In the second year, I applied for scholarship and became an exchange student at the Lund Laser Centre, LLC, in Lund, Sweden for six months. During my stay in LLC, he worked with Dr. Patrik Lundin, Dr. Emilie Krite Svanberg, Dr. Anna-Lena Sahlberg and so on. Based on the work I done in Sweden, a paper on gas in scattering media absorption spectroscopy which developing advanced diagnostics of human lungs was published in 2021. After coming back to China, I worked with his group member and had another co-first author publication on optical detection of flying disease-carrying mosquitos. After three years work in Sune’s group, I had five publications and one patent based on what I have done.
+**Bachelor (2014 - 2018).** I studied Electronics Science and Technology at the Department of Physics and Telecommunication Engineering, South China Normal University. From 2016 to 2018, I joined the research group of Prof. Zhang Han, where our team won several awards, including the second prize of the 15th National Challenge Cup and the first prize of the Guangdong Electronic Design Contest, and filed six patents. Our team was recognized as the Best Innovation Team of South China Normal University in 2018.
 
-PhD
-======
-To be continue and trying to do better...
+**Master (2018 - 2021).** I continued at SCNU in the Applied Molecular Spectroscopy and Remote Sensing Group, co-supervised by Prof. Katarina Svanberg and Prof. Sune Svanberg. In my second year, I was an exchange student for six months at the Lund Laser Centre in Lund, Sweden, working with Dr. Patrik Lundin, Dr. Emilie Krite Svanberg, and Dr. Anna-Lena Sahlberg on gas in scattering media absorption spectroscopy for lung diagnostics. After returning to China, I co-authored further work on optical detection of disease-carrying mosquitoes. By the end of my master's, I had five publications and one patent.
+
+**PhD (2022 - present).** I am currently pursuing my PhD at Radboud University, working on trace gas sensing and its applications.
+
+You can also find me on [ResearchGate](https://www.researchgate.net/profile/Yueyu-Lin).

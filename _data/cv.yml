@@ -1,0 +1,156 @@
+cv:
+  name: Yueyu Lin
+  label: PhD Candidate
+  location: Nijmegen, Netherlands
+  image: ""
+  summary: Physics PhD candidate at the Life Science Trace Gas Facility & Trace Gas Research Group, Radboud University, working on trace gas sensing and optical spectroscopy.
+
+  social_networks:
+    - network: GitHub
+      username: YueyulinRU
+
+  sections:
+    Education:
+      - institution: Radboud University
+        location: Nijmegen, Netherlands
+        area: Physics
+        studyType: PhD
+        start_date: 2022
+        end_date: present
+        highlights:
+          - "Supervisor: Prof. Simona M. Cristescu"
+
+      - institution: South China Normal University
+        location: Guangzhou, China
+        area: Applied Molecular Spectroscopy and Remote Sensing
+        studyType: M.S.
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - "Supervisors: Prof. Katarina Svanberg & Prof. Sune Svanberg"
+          - "Six-month exchange at the Lund Laser Centre, Lund, Sweden"
+
+      - institution: South China Normal University
+        location: Guangzhou, China
+        area: Electronics Science and Technology
+        studyType: B.S.
+        start_date: 2014
+        end_date: 2018
+        highlights:
+          - "Best Innovation Team of South China Normal University, 2018"
+
+    Experience:
+      - company: China Unicom Software Research Institute
+        position: Operation and Maintenance Engineer
+        start_date: 2021
+        end_date: 2022
+        summary: "Supervisors: Zhaoyuan Wang & Zhenguo Fang"
+
+    Publications:
+      - title: Gas Monitoring in Human Frontal Sinuses - Stability Considerations and Gas Exchange Studies
+        authors:
+          - H. Zhang
+          - N. Han
+          - Y.Y. Lin
+          - J.W. Huang
+          - S. Svanberg
+          - K. Svanberg
+        publisher: Sensors
+        releaseDate: 2021-06-28
+        url: https://www.mdpi.com/1424-8220/21/13/4413
+
+      - title: Gas in Scattering Media Absorption Spectroscopy on Small and Large Scales - Towards the Extension of Lung Spectroscopic Monitoring to Adults
+        authors:
+          - Y.Y. Lin
+          - P. Lundin
+          - E. Krite Svanberg
+          - K. Svanberg
+          - S. Svanberg
+          - A.-L. Sahlberg
+        publisher: Translational Biophotonics
+        releaseDate: 2021-06-15
+        url: https://onlinelibrary.wiley.com/doi/10.1002/tbio.202100003
+
+      - title: Identification of Flying Insects in the Spatial, Spectral and Time Domains with Focus on Mosquito Imaging
+        authors:
+          - Y.T. Sun
+          - Y.Y. Lin
+          - S. Svanberg
+        publisher: Sensors
+        releaseDate: 2021-05-11
+        url: https://www.mdpi.com/1424-8220/21/10/3329
+        summary: Joint first authorship
+
+      - title: Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation
+        authors:
+          - Y.Y. Lin
+          - S. Svanberg
+        publisher: Vision
+        releaseDate: 2020-08-13
+        url: https://www.mdpi.com/2411-5150/4/3/37
+
+      - title: Mosquito Counting System Based on Optical Sensing
+        authors:
+          - J.L. Wang
+          - S.M. Zhu
+          - Y.Y. Lin
+          - S. Svanberg
+          - G.Y. Zhao
+        publisher: Applied Physics B
+        releaseDate: 2020-11-29
+        url: https://link.springer.com/article/10.1007/s00340-019-7361-2
+
+    Awards:
+      - title: A Cardiopulmonary Sound Signal Recognition Method and System
+        awarder: Chinese Patent Application 2017110932877
+        date: 2017-11-01
+        summary: Filed November 2017, patent pending.
+
+      - title: Multifunctional Electronic Stethoscope and Auscultation System
+        awarder: Chinese Patent Application 2016108612274
+        date: 2016-09-01
+        summary: Filed September 2016, patent pending.
+
+      - title: A Heart Sound Signal Detection Equipment
+        awarder: Chinese Patent CN209032422U
+        date: 2019-06-28
+        summary: Filed November 8, 2017, issued June 28, 2019.
+
+      - title: A Kind of Microcomputer Mouse
+        awarder: Chinese Patent CN207133788U
+        date: 2018-03-23
+        summary: Filed July 24, 2017, issued March 23, 2018.
+
+      - title: Multifunctional Electronic Stethoscope
+        awarder: Chinese Patent CN206499478U
+        date: 2017-09-19
+        summary: Filed September 28, 2016, issued September 19, 2017.
+
+      - title: High-Precision Measuring Device for Glass Stress Based on Magneto-Optical Modulation
+        awarder: Chinese Patent CN206321370U
+        date: 2017-07-11
+        summary: Filed November 16, 2016, issued July 11, 2017.
+
+    Skills:
+      - name: Programming
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "C, MATLAB, Python, Linux"
+
+      - name: Research
+        level: Proficient
+        icon: fa-solid fa-microscope
+        keywords: "Optical spectroscopy, imaging, machine learning"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "CET6, IELTS 6.0 - good oral and written proficiency"
+
+    Certificates:
+      - name: Machine Learning
+        issuer: Coursera
+        icon: fa-solid fa-certificate
+        url: https://coursera.org/share/e83e5079809d39cbd70d60b5b1a334c4

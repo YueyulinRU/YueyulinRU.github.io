@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+github_username: YueyulinRU
+scholar_userid: lfpF6T0AAAAJ # your Google Scholar ID
+rss_icon: true # comment this line to hide the RSS icon
+custom_social: # ResearchGate is not a built-in jekyll-socials platform, so it's added manually here
+  logo: https://www.researchgate.net/favicon.ico
+  title: ResearchGate
+  url: https://www.researchgate.net/profile/Yueyu-Lin

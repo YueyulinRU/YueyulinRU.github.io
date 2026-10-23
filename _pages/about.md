@@ -31,6 +31,6 @@ Hi, my name is Yueyu Lin. I'm originally from China and received my bachelor's d
 
 **Master (2018 - 2021).** I continued at SCNU in the Applied Molecular Spectroscopy and Remote Sensing Group, co-supervised by Prof. Katarina Svanberg and Prof. Sune Svanberg. In my second year, I was an exchange student for six months at the Lund Laser Centre in Lund, Sweden, working with Dr. Patrik Lundin, Dr. Emilie Krite Svanberg, and Dr. Anna-Lena Sahlberg on gas in scattering media absorption spectroscopy for lung diagnostics. After returning to China, I co-authored further work on optical detection of disease-carrying mosquitoes. By the end of my master's, I had five publications and one patent.
 
-**PhD (2022 - present).** I am currently pursuing my PhD at Radboud University, working on trace gas sensing and its applications.
+**PhD (2022 - present).** I am currently pursuing my PhD at Radboud University, working on mid-infrared broadband supercontinuum and upconversion spectroscopy for multispecies trace gas detection, with applications ranging from human breath analysis to greenhouse gas monitoring at wastewater treatment plants and methane emissions from dairy cows.
 
 You can also find me on [ResearchGate](https://www.researchgate.net/profile/Yueyu-Lin).

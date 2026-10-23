@@ -1,0 +1,295 @@
+cv:
+  name: Yueyu Lin
+  label: PhD Candidate
+  location: Nijmegen, Netherlands
+  image: ""
+  summary: Physics PhD candidate at the Life Science Trace Gas Facility & Trace Gas Research Group, Radboud University, working on trace gas sensing and optical spectroscopy.
+
+  social_networks:
+    - network: GitHub
+      username: YueyulinRU
+
+  sections:
+    Education:
+      - institution: Radboud University
+        location: Nijmegen, Netherlands
+        area: Physics
+        studyType: PhD
+        start_date: 2022
+        end_date: present
+        highlights:
+          - "Supervisor: Prof. Simona M. Cristescu"
+
+      - institution: South China Normal University
+        location: Guangzhou, China
+        area: Applied Molecular Spectroscopy and Remote Sensing
+        studyType: M.S.
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - "Supervisors: Prof. Katarina Svanberg & Prof. Sune Svanberg"
+          - "Six-month exchange at the Lund Laser Centre, Lund, Sweden"
+
+      - institution: South China Normal University
+        location: Guangzhou, China
+        area: Electronics Science and Technology
+        studyType: B.S.
+        start_date: 2014
+        end_date: 2018
+        highlights:
+          - "Best Innovation Team of South China Normal University, 2018"
+
+    Experience:
+      - company: China Unicom Software Research Institute
+        position: Operation and Maintenance Engineer
+        start_date: 2021
+        end_date: 2022
+        summary: "Supervisors: Zhaoyuan Wang & Zhenguo Fang"
+
+    Publications:
+      - title: Real-Time Monitoring of Breath Methane Concentration in Dairy Cows Using Tunable Diode Laser Spectroscopy and Facemask-Based Sampling
+        authors:
+          - Y.Y. Lin
+          - J. Meurs
+          - I. Fodor
+          - E. van Erp-van der Kooij
+          - Y. de Haas
+          - S.M. Cristescu
+        publisher: JDS Communications
+        releaseDate: 2026-09-07
+        url: https://www.sciencedirect.com/science/article/pii/S2666910226001742
+
+      - title: Sub-Second, Sensitive and Multispecies Detection of Volatile Organic Compounds Using a Mid-Infrared Broadband Supercontinuum Source and Upconversion Spectrometer
+        authors:
+          - Y.Y. Lin
+          - P. Formica
+          - R. Krebbers
+          - A. Khodabakhsh
+          - S.M. Cristescu
+        publisher: Applied Spectroscopy
+        releaseDate: 2026-05-04
+        url: https://opg.optica.org/viewmedia.cfm?uri=as-80-7-756&seq=0&html=true
+
+      - title: Multispecies Gas Detection Using Mid-Infrared Open-Path Fourier Transform and Upconversion Spectroscopy
+        authors:
+          - Y.Y. Lin
+          - R. Krebbers
+          - K. van Kempen
+          - A. Khodabakhsh
+          - S.M. Cristescu
+        publisher: Optics Express
+        releaseDate: 2025-08-11
+        url: https://opg.optica.org/viewmedia.cfm?uri=oe-33-17-35225&seq=0&html=true
+
+      - title: Ultra-Broadband Coherent Open-Path Spectroscopy for Multi-Gas Monitoring in Wastewater Treatment
+        authors:
+          - R. Krebbers
+          - K. van Kempen
+          - Y.Y. Lin
+          - J. Meurs
+          - L. Hendriks
+          - R. Aben
+          - J.R. Paranaiba
+          - C. Fritz
+          - A.J. Veraart
+          - A. Khodabakhsh
+          - S.M. Cristescu
+        publisher: Environmental Science and Ecotechnology
+        releaseDate: 2025-05-01
+        url: https://www.sciencedirect.com/science/article/pii/S2666498425000328
+
+      - title: Fast Detection of Multispecies Liquid Evaporation by Mid-IR Broadband Supercontinuum Source and Upconversion Spectrometer
+        authors:
+          - Y.Y. Lin
+          - P. Formica
+          - R. Krebbers
+          - A. Khodabakhsh
+          - S.M. Cristescu
+        publisher: The European Conference on Lasers and Electro-Optics
+        releaseDate: 2025-06-23
+
+      - title: Extending Human Lung Monitoring by Laser Spectroscopy from Infants Toward Adults - Initial Proof of Concept in a Porcine Lung Model
+        authors:
+          - H. Palme
+          - Y.Y. Lin
+          - S. Bergsten
+          - S. Svanberg
+          - K. Svanberg
+          - S.M. Cristescu
+          - E. Krite Svanberg
+          - A.-L. Sahlberg
+        publisher: Translational Biophotonics
+        releaseDate: 2024-12-01
+        url: https://onlinelibrary.wiley.com/doi/10.1002/tbio.70003
+
+      - title: Real-Time Measurement of CH4 in Human Breath Using a Compact CH4/CO2 Sensor
+        authors:
+          - Y.Y. Lin
+          - D. Manalili
+          - A. Khodabakhsh
+          - S.M. Cristescu
+        publisher: Sensors
+        releaseDate: 2024-02-07
+        url: https://www.mdpi.com/1424-8220/24/4/1077
+
+      - title: Ultra-Broadband Mid-Infrared Supercontinuum-Based Spectroscopy for Greenhouse Gas Monitoring at Wastewater Treatment Plants
+        authors:
+          - R. Krebbers
+          - K. van Kempen
+          - Y.Y. Lin
+          - A. Khodabakhsh
+          - S.M. Cristescu
+        publisher: European Geosciences Union General Assembly 2024 (EGU24)
+        releaseDate: 2024-04-01
+
+      - title: Ten Years of Interdisciplinary Lidar Applications at SCNU, Guangzhou
+        authors:
+          - J.B. Chi
+          - Z. Duan
+          - J.W. Huang
+          - Y. Li
+          - Y.Y. Li
+          - M. Lian
+          - Y.Y. Lin
+          - J.C. Lu
+          - Y.T. Sun
+          - J.L. Wang
+          - X. Wang
+          - Y. Yuan
+          - Q. Zhang
+          - G.Y. Zhao
+          - S.M. Zhu
+          - S. Svanberg
+        publisher: International Laser Radar Conference
+        releaseDate: 2022-06-26
+
+      - title: Gas Monitoring in Human Frontal Sinuses - Stability Considerations and Gas Exchange Studies
+        authors:
+          - H. Zhang
+          - N. Han
+          - Y.Y. Lin
+          - J.W. Huang
+          - S. Svanberg
+          - K. Svanberg
+        publisher: Sensors
+        releaseDate: 2021-06-28
+        url: https://www.mdpi.com/1424-8220/21/13/4413
+
+      - title: Gas in Scattering Media Absorption Spectroscopy on Small and Large Scales - Towards the Extension of Lung Spectroscopic Monitoring to Adults
+        authors:
+          - Y.Y. Lin
+          - P. Lundin
+          - E. Krite Svanberg
+          - K. Svanberg
+          - S. Svanberg
+          - A.-L. Sahlberg
+        publisher: Translational Biophotonics
+        releaseDate: 2021-06-15
+        url: https://onlinelibrary.wiley.com/doi/10.1002/tbio.202100003
+
+      - title: Gas in Scattering Media Absorption Spectroscopy on Small and Large Scales - Towards the Extension of Lung Spectroscopic Monitoring to Adults (Conference Proceedings)
+        authors:
+          - A.-L. Sahlberg
+          - Y.Y. Lin
+          - P. Lundin
+          - E. Krite Svanberg
+          - K. Svanberg
+          - S. Svanberg
+        publisher: Translational Biophotonics
+        releaseDate: 2021-01-01
+
+      - title: Identification of Flying Insects in the Spatial, Spectral and Time Domains with Focus on Mosquito Imaging
+        authors:
+          - Y.T. Sun
+          - Y.Y. Lin
+          - G.Y. Zhao
+          - S. Svanberg
+        publisher: Sensors
+        releaseDate: 2021-05-11
+        url: https://www.mdpi.com/1424-8220/21/10/3329
+        summary: Joint first authorship
+
+      - title: Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation
+        authors:
+          - Y.Y. Lin
+          - S. Svanberg
+        publisher: Vision
+        releaseDate: 2020-08-13
+        url: https://www.mdpi.com/2411-5150/4/3/37
+
+      - title: Mosquito Counting System Based on Optical Sensing
+        authors:
+          - J.L. Wang
+          - S.M. Zhu
+          - Y.Y. Lin
+          - S. Svanberg
+          - G.Y. Zhao
+        publisher: Applied Physics B
+        releaseDate: 2020-02-01
+        url: https://link.springer.com/article/10.1007/s00340-019-7361-2
+
+      - title: Pilot Design for Channel Estimation in a Long-Tap Faster-Than-Nyquist Signaling Transmission
+        authors:
+          - S. Gao
+          - L. Lin
+          - Y.Y. Lin
+          - H. Zhang
+          - D. Pan
+        publisher: 2017 IEEE 17th International Conference on Communication Technology (ICCT)
+        releaseDate: 2017-10-27
+        url: https://www.researchgate.net/profile/Yueyu-Lin/publication/325240531_Pilot_design_for_channel_estimation_in_a_long-tap_faster-than-Nyquist_signaling_transmission
+
+    Awards:
+      - title: A Cardiopulmonary Sound Signal Recognition Method and System
+        awarder: Chinese Patent Application 2017110932877
+        date: 2017-11-01
+        summary: Filed November 2017, patent pending.
+
+      - title: Multifunctional Electronic Stethoscope and Auscultation System
+        awarder: Chinese Patent Application 2016108612274
+        date: 2016-09-01
+        summary: Filed September 2016, patent pending.
+
+      - title: A Heart Sound Signal Detection Equipment
+        awarder: Chinese Patent CN209032422U
+        date: 2019-06-28
+        summary: Filed November 8, 2017, issued June 28, 2019.
+
+      - title: A Kind of Microcomputer Mouse
+        awarder: Chinese Patent CN207133788U
+        date: 2018-03-23
+        summary: Filed July 24, 2017, issued March 23, 2018.
+
+      - title: Multifunctional Electronic Stethoscope
+        awarder: Chinese Patent CN206499478U
+        date: 2017-09-19
+        summary: Filed September 28, 2016, issued September 19, 2017.
+
+      - title: High-Precision Measuring Device for Glass Stress Based on Magneto-Optical Modulation
+        awarder: Chinese Patent CN206321370U
+        date: 2017-07-11
+        summary: Filed November 16, 2016, issued July 11, 2017.
+
+    Skills:
+      - name: Programming
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "C, MATLAB, Python, Linux"
+
+      - name: Research
+        level: Proficient
+        icon: fa-solid fa-microscope
+        keywords: "Optical spectroscopy, imaging, machine learning"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "CET6, IELTS 6.0 - good oral and written proficiency"
+
+    Certificates:
+      - name: Machine Learning
+        issuer: Coursera
+        icon: fa-solid fa-certificate
+        url: https://coursera.org/share/e83e5079809d39cbd70d60b5b1a334c4
